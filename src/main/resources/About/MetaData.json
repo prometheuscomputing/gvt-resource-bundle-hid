@@ -7,9 +7,9 @@
 				"version": "${metadata.version}",
 				"igVersion": "",
 				"scope": "GLOBAL",
-				"name": "NIST Home",
-				"homeTitle": "Welcome to the NIST General Validation Tool",
-				"authorUsername": "nico",
+				"name": "SITT Home",
+				"homeTitle": "Welcome to the General Validation Tool",
+				"authorUsername": "Youssef Bouij",
 				"options":{
 					"REPORT_SAVING_SUPPORTED": false
 				}
@@ -23,7 +23,7 @@
 				"scope": "GLOBAL",
 				"name": "NHCS CDA Release 3",
 				"homeTitle": "NHCS CDA Release 3 Validation Testing",
-				"authorUsername": "nico",
+				"authorUsername": "Youssef Bouij",
 				"options":{
 					"REPORT_SAVING_SUPPORTED": false
 				}
@@ -37,7 +37,7 @@
     		"scope": "GLOBAL",
 			"name": "NHCS CDA Release 3.1",
 			"homeTitle": "NHCS CDA Release 3.1 Validation Testing",
-			"authorUsername":"nico",
+			"authorUsername":"Youssef Bouij",
 			"options":{
 					"REPORT_SAVING_SUPPORTED": false
 			}
